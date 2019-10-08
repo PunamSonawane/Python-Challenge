@@ -2,8 +2,6 @@
 
 1.PyBank
 
-
-
 * In this challenge, created a Python script for analyzing the financial records of company. From given set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 * Created a Python script that analyzes the records to calculate each of the following:
 
@@ -19,7 +17,7 @@
 
   * In addition, script is printing the analysis to the terminal and exporting a text file with the results.
 
-## PyPoll
+2.PyPoll
 
 * In this challenge, created a Python script for a small, rural town to modernize its vote-counting process. From a given set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). 
 The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`, Task is to create a Python script that analyzes the votes and calculates each of the following:
